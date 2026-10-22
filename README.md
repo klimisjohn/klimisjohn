@@ -1,4 +1,4 @@
-# Hi there, I'm Giannis! 👋
+# Hi there, I'm John! 👋
 
 I am an aspiring **Frontend Developer** based in Kalymnos, Greece, passionate about building clean, responsive, and user-friendly web experiences.
 
